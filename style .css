@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.titan{
+    display:flex;
+    justify-content: space-between;
+    padding: 12px 30px;
+    box-shadow: 5px 5px 10px grey;
+}
+.titan a{
+    font-size: 1.3em;
+    text-decoration: none;
+    color: black;
+    padding: 8px 15px;
+}
+.titan a:hover{
+    background-color: lightgray;    
+}
+#t1{
+    margin-top: -70px;
+    margin-left: 30px;
+    font-size: 40px;
+}.titan1 img{
+    width: 100%;
+   
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.texts{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.image img{
+    margin-top: 70px;
+    width: 400px;
+    margin-right: 20px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
+.texts1{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.image1 img{
+    margin-top: 70px;
+    width: 400px;
+    margin-left: 20px;
+}
